@@ -38,9 +38,6 @@ project/
 │   ├── dynamic_loading_page.py
 │   ├── notification_page.py
 │   └── infinite_scroll_page.py
-│
-├── screenshots/
-│
 └── README.md
 ```
 
